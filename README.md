@@ -1,2 +1,2 @@
 Git javascript 
-AshwinJacob Mathulla
+Ashwin Jacob Mathulla
