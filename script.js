@@ -11,8 +11,7 @@ console.log(student.classList[1])
 const story = {
   noun: 'Toronto',
   verbs: ['run', 'walk'],
-  adjectives: ['beautiful', 'red']
-
+  adjectives: 'beautiful',
 }
 
 console.log(`The sun did not ${story.verbs[0]}
